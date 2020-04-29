@@ -1,0 +1,9 @@
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\obj\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.csprojAssemblyReference.cache
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\obj\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\obj\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\obj\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.AssemblyInfo.cs
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\bin\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.deps.json
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\bin\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.dll
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\bin\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.pdb
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\obj\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.dll
+C:\Users\Facu\source\repos\PointOfSaleTerminalLibrary\obj\Debug\netcoreapp3.1\PointOfSaleTerminalLibrary.pdb
